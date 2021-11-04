@@ -1,0 +1,85 @@
+body{
+  background-image: url(preview16.jpg);
+  background-size: cover;
+  margin: 0px;
+  border: 10px;
+  margin-bottom: 0px;
+}
+
+.info{
+  font-size: 20px;
+  color: white;
+  background: rgb(240, 160, 100);
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+h2{
+  font-size: 50px;
+  color: blue;
+  border-bottom: 5px solid purple;
+  background: rgb(200, 230, 255);
+  padding: 20px;
+  height: 50px;
+  margin: 0px;
+}
+
+h1{
+  font-size: 60px;
+  width: 700px;
+  text-align: center;
+  background: rgb(200, 150, 250);
+  padding: 10px;
+  border-radius: 10px;
+  border: 5px double white;
+  margin-left: 450px;
+  margin-right: 450px;
+}
+
+.links{
+  font-size: 40px;
+  text-align: center;
+  text-decoration-line: none;
+  background: rgb(200, 230, 255);
+  padding: 10px;
+  border-radius: 10px;
+  border: 5px double white;
+  margin-left: 800px;
+  margin-right: 400px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.links:hover{
+  color: red;
+  background: white;
+}
+
+img{
+  max-width: 40%;
+  margin-left: center;
+  margin-left: 500px;
+  margin-right: 500px;
+  padding: 30px;
+}
+
+.button{
+  font-size: 40px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  color: rgb(255, 100, 100);
+  background: rgb(255, 100, 100);
+  border-radius: 10px;
+  padding: 5px;
+  margin-left: 50px;
+}
+
+.button:hover{
+  font-size: 30px;
+  text-align: center;
+  padding: 5px;
+  color: rgb(255, 50, 50);
+  margin-left: 150px;
+}
